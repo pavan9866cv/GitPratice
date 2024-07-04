@@ -1,1 +1,3 @@
 Hello git learner from sample2
+
+second change for feature1 after pulling latest code frm main branch
